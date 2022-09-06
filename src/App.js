@@ -1,6 +1,7 @@
 import * as Scrivito from 'scrivito';
 import logo from './logo.svg';
 import './App.css';
+import './fakeClasses'
 
 function App() {
   return (
